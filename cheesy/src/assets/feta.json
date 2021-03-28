@@ -1,0 +1,108 @@
+{
+  "name": "Feta",
+  "steps": [
+    {
+      "ingredients": [
+        { "material": "lipase", "quantity": "0.125", "unit": "tsp"},
+        { "material": "water", "quantity": "60", "unit": "ml"}
+      ],
+      "temp": null,
+      "time": "20 min",
+      "procedure": "Combine and set aside for 20 minutes to rehydrate."
+    },
+    {
+      "ingredients": [
+        { "material": "calcium chloride", "quantity": "0.25", "unit": "tsp"},
+        { "material": "water", "quantity": "60", "unit": "ml"}
+      ],
+      "temp": null,
+      "time": null,
+      "procedure": "Combine and set aside."
+    },
+    {
+      "ingredients": [
+        { "material": "liquid rennet", "quantity": "0.25", "unit": "tsp"},
+        { "material": "water", "quantity": "60", "unit": "ml"}
+      ],
+      "temp": null,
+      "time": null,
+      "procedure": "Combine and set aside."
+    },
+    {
+      "ingredients": [
+        { "material": "water", "quantity": "2", "unit": "L"},
+        { "material": "cheese salt", "quantity": "250", "unit": "g"},
+        { "material": "calcium chloride", "quantity": "15", "unit": "ml"},
+        { "material": "vinegar", "quantity": "15", "unit": "ml"}
+      ],
+      "temp": null,
+      "time": null,
+      "procedure": "Combine brine ingredients, and set aside."
+    },
+    {
+      "ingredients": [
+        { "material": "cow's milk", "quantity": "4", "unit": "L"},
+        { "material": "mesophilic culture", "quantity": "0.125", "unit": "tsp"}
+      ],
+      "temp": "30ºC",
+      "time": "60 min",
+      "procedure": "Place milk in pot, along with calcium chloried and lipase. Using indirect heat, bring to 30ºC. Once milk has come to temperature, add mesophilic culture. All culture to rehydrate for 2 minutes, then stir through and cover. Allow to ripen for 60 minutes, maintaining the temperature at 30ºC using indirect heat."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "30ºC",
+      "time": "60 min",
+      "procedure": "Add rennet to milk and stir gently for up to 1 minute. Stir with an up-and-down motion to ensure the rennet is evenly distributed through the milk. Cover and leave to coagulate for 60 minutes, maintaining the temperature at 30ºC using indirect heat."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "30ºC",
+      "time": "10 min",
+      "procedure": "Check for a clean break. If a clean break is not achieved, stand for an additional 5 minutes before checking again. Once a clean break is achieved, cut the curd into 1.5cm cubes, and rest for 10 minutes, maintaining temperature at 30ºC using indirect heat."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "30ºC",
+      "time": "20 min",
+      "procedure": "Stir curds gently for 20 minutes. During this time, the curds should expel some whey."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": null,
+      "time": "30 min",
+      "procedure": "Gently tip the curds and whey into a cheese-cloth lined colander, and allow to drain for 30 minutes."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": null,
+      "time": "120 min",
+      "procedure": "Spoon the curds into two cheese-cloth lined feta moulds. Fold the cheese-cloth over the top, and stack the two moulds on top of one another. Weigh down with 2kg of pressure (a milk carton filled with water works well), and allow to drain for 2 hours, swapping the top and bottom moulds half way through."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": null,
+      "time": "120 min",
+      "procedure": "Carefully unwrap both blocks of feta, and stack together to form a single block. Rewrap, and place back in one of the feta moulds. The feta should now have expelled enough whey that the two blocks should fit in a single mould just fine. Drain under 2kg of pressure for a further 2 hours."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": null,
+      "time": "2 days",
+      "procedure": "Unwrap the feta, and place in the prepared brine, in the fridge for 2 days to mature, flipping the feta over in the brine half way through."
+    }
+  ]
+}
