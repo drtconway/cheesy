@@ -1,0 +1,99 @@
+{
+  "name": "Haloumi",
+  "steps": [
+    {
+      "ingredients": [
+        { "material": "calcium chloride", "quantity": "0.5", "unit": "tsp"},
+        { "material": "water", "quantity": "60", "unit": "ml"}
+      ],
+      "temp": null,
+      "time": null,
+      "procedure": "Combine and set aside."
+    },
+    {
+      "ingredients": [
+        { "material": "liquid rennet", "quantity": "0.5", "unit": "tsp"},
+        { "material": "water", "quantity": "60", "unit": "ml"}
+      ],
+      "temp": null,
+      "time": null,
+      "procedure": "Combine and set aside."
+    },
+    {
+      "ingredients": [
+        { "material": "cow's milk", "quantity": "8", "unit": "L"},
+        { "material": "mesophilic culture", "quantity": "0.125", "unit": "tsp"}
+      ],
+      "temp": "32ºC",
+      "time": "40 min",
+      "procedure": "Place milk in pot, along with calcium chloried. Using indirect heat, bring to 32ºC. Once milk has come to temperature, add the rennet. Stir with an up-and-down motion to ensure the rennet is evenly distributed through the milk. Cover, and leave to coagulate for 40 minutes, while maintaining the temperature at 32ºC."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "32ºC",
+      "time": "5 min",
+      "procedure": "Check for a clean break. If a clean break is not achieved, stand for an additional 5 minutes before checking again. Once a clean break is achieved, cut the curd into 1.5cm cubes, and rest for 5 minutes, maintaining temperature at 32ºC using indirect heat."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "40ºC",
+      "time": "20 min",
+      "procedure": "Slowly increase the temperature to 40ºC over 20 minutes, stirring gently from time to time so that the curds do not mat together."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": null,
+      "time": "10 min",
+      "procedure": "Allow the curds to stand for 10 minutes to consolidate. Once the curds have consolidated, drain them, saving the whey. To do this, place a cheesecloth lined colander over a large pot, and drain the curds and whey into the colander. Allow the curds to drain in the colander for a few minutes."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": null,
+      "time": "10 min",
+      "procedure": "Transfer the curds in the cheesecloth to a sanitised cutting board (keeping the curds in the cheesecloth), and massage to shape into a square slab (the target size after pressing is 30cm by 30cm). Cover with another board, and apply a 4kg weight. Press for 10 minutes."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": null,
+      "time": "20 min",
+      "procedure": "Turn the slab of cheesecloth-wrapped curd, cover, and apply 4kg weight, and press for a further 20 minutes. While the curds are pressing, heat the pot ofwhey to 90ºC."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "97ºC",
+      "time": "60 min",
+      "procedure": "Once the whey reaches 90ºC, skim off any bits of curd and coagulated protein from the pot, and heat to 97ºC, being careful not to boil the whey. Remove the weight and top board from the curds, and unwrap the slab and place it on the bottom board. Cut the slab into 10cm by 15cm rectangles (3 by 2 pieces), and place them in the hot whey. They will sink, and rise to the surface after about 45 minutes. Cook in the hot whey for a further 15 minutes after they rise to the surface."
+    },
+    {
+      "ingredients": [
+        { "material": "cheese salt", "quantity": "2", "unit": "tbl"},
+        { "material": "dried mint", "quantity": "1", "unit": "tsp"}
+      ],
+      "temp": null,
+      "time": "60 min",
+      "procedure": "Combine the salt and mint in a bowl. Lift the pieces out of the hot whey one at a time. Drain each piece over the pot briefly, then dredge through the salt-mint mixture, then working quickly while the cheese is still hot, fold it in half, and press firmly for a few seconds, then place on a draining mat. Allow to drain for an hour, before putting in a sealed container in the fridge."
+    },
+    {
+      "ingredients": [
+        { "material": "Variation", "quantity": "", "unit": ""},,
+        { "material": "cheese salt", "quantity": "150", "unit": "g"},
+        { "material": "water", "quantity": "1.5", "unit": "L"}
+      ],
+      "temp": null,
+      "time": null,
+      "procedure": "Alternatively, the haloumi can be taken from the hot whey, folded, and brined. To make the brine, dissolve 150g salt in 1.5L of water. Leave in the brine at least overnight. The haloumi can be stored in the brine, but will become more salty over time."
+    }
+  ]
+}
